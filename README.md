@@ -1,4 +1,4 @@
-### Olá mundo
+### <img src="https://thumbs.gfycat.com/HeartfeltLargeBobolink-max-1mb.gif" width="30px" height="30px">  Olá mundo
 
 <!--
 **lucaspereirasouza/Lucaspereirasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
