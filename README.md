@@ -1,5 +1,7 @@
-### <img src="https://thumbs.gfycat.com/HeartfeltLargeBobolink-max-1mb.gif" width="30px" height="30px">  Olá mundo
-
+# <img src="https://thumbs.gfycat.com/HeartfeltLargeBobolink-max-1mb.gif" width="30px" height="30px">  Olá, este é meu perfil do github.
+## Estudando atualmente:
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+          
 <!--
 **lucaspereirasouza/Lucaspereirasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
