@@ -1,3 +1,3 @@
 # <img src="https://thumbs.gfycat.com/HeartfeltLargeBobolink-max-1mb.gif" width="40px" height="40px">  Olá, este é o meu perfil do github.
-## Estudando atualmente:
+## Atualmente estudando
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40px" height="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px" height="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" width="40px" height="40px"/>
