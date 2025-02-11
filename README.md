@@ -47,7 +47,7 @@ Atualmente, trabalho em projetos que envolvem desde back-end robusto até o uso 
 
 ## 📫 Entre em Contato
 - **E-mail**: lucaspereiradesouza2163@gmail.com
-- **Portfólio**: [seu-dominio.com](https://lucaspereira-portfolio.vercel.app/))  
+- **Portfólio**: [https://lucaspereira-portfolio.vercel.app](https://lucaspereira-portfolio.vercel.app/))  
 
 ---
 
