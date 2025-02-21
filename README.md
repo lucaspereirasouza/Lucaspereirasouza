@@ -34,7 +34,7 @@ Atualmente, trabalho em projetos que envolvem desde back-end robusto até o uso 
 ## 📈 Estatísticas do GitHub
 
 ![Lucas Pereira de Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspereirasouza&showicons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspereirasouza&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspereirasouza&layout=compact&theme=chartreuse-dark)
 
 ---
 
