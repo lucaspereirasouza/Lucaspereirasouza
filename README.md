@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor de 19 anos, entusiasta por tecnologia e desenvolvimento de software. Minha experiência abrange linguagens como **Java**, **PHP** (com Laravel) e **TypeScript** (com NestJS). Além disso, tenho familiaridade com **Kubernetes**, **Docker** e boas práticas em desenvolvimento e deploy de aplicações.
+Sou um desenvolvedor de 20 anos, entusiasta por tecnologia e desenvolvimento de software. Minha experiência abrange linguagens como **Java**, **PHP** (com Laravel) e **TypeScript** (com NestJS). Além disso, tenho familiaridade com **Kubernetes**, **Docker** e boas práticas em desenvolvimento e deploy de aplicações.
 
 Atualmente, trabalho em projetos que envolvem desde back-end robusto até o uso de containers para soluções eficientes e escaláveis. Também estou sempre em busca de novos desafios e oportunidades para colaborar com a comunidade de desenvolvedores.
 
