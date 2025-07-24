@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Lucas Pereira de Souza! 
+# Olá, eu sou Lucas Pereira de Souza! 
 
 
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor de 19 anos, entusiasta por tecnologia e desenvolvimento de software. Minha experiência abrange linguagens como **Java**, **PHP** (com Laravel) e **TypeScript** (com NestJS). Além disso, tenho familiaridade com **Kubernetes**, **Docker** e boas práticas em desenvolvimento e deploy de aplicações.
 
@@ -12,7 +12,7 @@ Atualmente, trabalho em projetos que envolvem desde back-end robusto até o uso 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Linguagens de Programação:
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -31,17 +31,10 @@ Atualmente, trabalho em projetos que envolvem desde back-end robusto até o uso 
 
 ---
 
-## 📈 Estatísticas do GitHub
-
 ![Lucas Pereira de Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspereirasouza&showicons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspereirasouza&layout=compact&theme=chartreuse-dark)
 
 ---
-
-## 🌱 O Que Estou Aprendendo
-- Aprofundamento em **Arquitetura de Microserviços**.
-- Integrações mais robustas com **APIs REST** e **GraphQL**.
-- Administração e virtualização em **Linux**.
 
 ---
 
