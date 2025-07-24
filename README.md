@@ -6,28 +6,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor de 20 anos, entusiasta por tecnologia e desenvolvimento de software. Minha experiência abrange linguagens como **Java**, **PHP** (com Laravel) e **TypeScript** (com NestJS). Além disso, tenho familiaridade com **Kubernetes**, **Docker** e boas práticas em desenvolvimento e deploy de aplicações.
-
-Atualmente, trabalho em projetos que envolvem desde back-end robusto até o uso de containers para soluções eficientes e escaláveis. Também estou sempre em busca de novos desafios e oportunidades para colaborar com a comunidade de desenvolvedores.
-
----
-
-## Tecnologias e Ferramentas
-
-### Linguagens de Programação:
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### Frameworks e Ferramentas:
-- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-- ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23AAFF00.svg?style=flat&logo=springboot&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
-### Sistema Operacional:
-- ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=debian&logoColor=white)
-- ![Linux Mint](https://img.shields.io/badge/Linux_Mint-%23AAFF00.svg?style=flat&logo=linuxmint&logoColor=white)
+Sou um desenvolvedor de 20 anos, entusiasta por tecnologia e desenvolvimento de software. Minha experiência abrange em projetos de containerização de aplicações e experimentos de VMs com sistemas UNIX com Qemu. Tenho sistemas back-end e fullstack com enfase em frameworks como springboot, nestJS e entre outros. Atualmente utilizo o Fedora workstation, Debian trixy e Linux mint para administração do sistema.
 
 ---
 
