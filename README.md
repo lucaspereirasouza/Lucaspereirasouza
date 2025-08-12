@@ -46,8 +46,6 @@ ccccccccccccccccccccccccccccc:'.
 
 ---
 
-Se precisar de mais personalizações ou ajustes, é só falar! 😊
-
 [![GitHub followers](https://img.shields.io/github/followers/lucaspereirasouza?style=social)](https://github.com/lucaspereirasouza)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil-linkedin)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat&logo=vercel)](https://lucaspereira-portfolio.vercel.app/)
