@@ -24,9 +24,9 @@ ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Icons: Adwaita [GTK2/3/4]
 ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      Font: Sans (10pt) [GTK2/3/4]
 cccccc;dNMWXXXWM0:;cccccccccccccc:,       Cursor: Adwaita
 cccccccc;.:odl:.;cccccccccccccc:,.        Terminal: xfce4-terminal 1.1.5
-ccccccccccccccccccccccccccccc:'.          CPU:
-:ccccccccccccccccccccccc:;,..             GPU:
- ':cccccccccccccccc::;,.                  Memory: 7.61 GiB / 15.50 GiB (49%)
+ccccccccccccccccccccccccccccc:'.          
+:ccccccccccccccccccccccc:;,..             
+ ':cccccccccccccccc::;,.                  
 ```
 
 ---
