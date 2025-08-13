@@ -11,7 +11,7 @@
 ```
          .';:cccccccccccc:;,.             
       .;cccccccccccccccccccccc;.          OS: Fedora Linux 42 (Adams) x86_64
-    .:cccccccccccccccccccccccccc:.        Kernel: Linux 6.15.6-200.fc42.x86_64
+    .:cccccccccccccccccccccccccc:.        Kernel: Linux 6.15.9-201.fc42.x86_64
   .;ccccccccccccc;.:dddl:.;ccccccc;.      Uptime: 1 day, 2 hours, 38 mins
  .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     Packages: 
 .:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    Shell: bash 5.2.37
