@@ -40,7 +40,7 @@ ccccccccccccccccccccccccccccc:'.
 ---
 
 [![GitHub followers](https://img.shields.io/github/followers/lucaspereirasouza?style=social)](https://github.com/lucaspereirasouza)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-pereira0/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat&logo=vercel)](https://lucaspereira-portfolio.vercel.app/)
 
 
