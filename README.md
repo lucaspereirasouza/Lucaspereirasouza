@@ -32,7 +32,7 @@
 
 ## 📫 Entre em Contato
 - **E-mail**: lucaspereiradesouza2163@outlook.com
-- **Portfólio**: [https://lucaspereira-portfolio.vercel.app](https://lucaspereira-portfolio.vercel.app/))  
+- **Portfólio**: [https://lucaspereira-portfolio.vercel.app](https://lusps-astro.vercel.app/))  
 
 ---
 
