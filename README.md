@@ -1,5 +1,7 @@
 # Olá 👋
-![Profile_sumary](https://github-profile-widget-8t8bh34nj-lucaspereirasouzas-projects.vercel.app/?lucaspereirasouza)
+
+[![Interactive Profile Card](https://img.shields.io/badge/Interactive-Profile%20Card-blue?style=for-the-badge&logo=github)](https://github-profile-widget-8t8bh34nj-lucaspereirasouzas-projects.vercel.app/?lucaspereirasouza&theme=black)
+
 ### Back-end Analyst and Developer, also debian enthusiastic.  
 
 ```
