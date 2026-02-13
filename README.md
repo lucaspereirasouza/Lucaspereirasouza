@@ -1,4 +1,5 @@
 # Olá 👋
+![Profile_sumary](https://github-profile-widget-8t8bh34nj-lucaspereirasouzas-projects.vercel.app/?lucaspereirasouza)
 ### Back-end Analyst and Developer, also debian enthusiastic.  
 
 ```
@@ -22,9 +23,6 @@
 ---
 
 
-
-![Lucas Pereira de Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspereirasouza&showicons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspereirasouza&layout=compact&theme=chartreuse-dark)
 
 ---
 
