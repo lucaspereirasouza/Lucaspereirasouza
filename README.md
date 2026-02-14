@@ -1,6 +1,6 @@
 # Olá 👋
 
-![My GitHub Profile](https://github-profile-widget.vercel.app/api/card?username=lucaspereirasouza&theme=blac)
+![My GitHub Profile](https://github-profile-widget.vercel.app/api/card?username=lucaspereirasouza)
 
 
 ### Back-end Analyst and Developer, also debian enthusiastic.  
